@@ -1,3 +1,4 @@
+#include<stdio.h>
 int soma(int* N1, int* N2)
 {
     *N1 + *N2;
